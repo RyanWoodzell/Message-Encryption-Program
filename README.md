@@ -1,3 +1,3 @@
-# Message Encryption Program
+# Pig Latin Translator
 Encrypt text 
 
